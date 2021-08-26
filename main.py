@@ -2,7 +2,7 @@ import random
 import tkinter
 from tkinter.constants import DISABLED, NORMAL
 
-#region FUNCIONES
+##region FUNCIONES
 
 def abrir_casilla(mapa, coords, boton, idmina): # coords -> [fila,columna] ((NO DARLOS VUELTA!!)) EL C INDICA LA ID DEL BOTON
     global dimension
